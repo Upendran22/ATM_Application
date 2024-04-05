@@ -1,7 +1,7 @@
 
 # ATM Application
 
-## Overview**
+## Overview
 This is a console-based ATM (Automated Teller Machine) application that provides functionalities for both Admin and Customer roles. The Admin can manage bank details and customer accounts, while Customers can perform operations like withdrawal, deposit, balance inquiry, PIN change, transfer, and view mini statements.
 
 ## Features
