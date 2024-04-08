@@ -1,3 +1,4 @@
+
 class Admin:
     def __init__(self):
         self.bank_details = {}  
